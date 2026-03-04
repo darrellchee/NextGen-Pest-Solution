@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="980" viewBox="0 0 1400 980" role="img" aria-labelledby="title desc">
+  <title id="title">Branded pest control vehicle</title>
+  <desc id="desc">Soft placeholder for branded vehicle service image.</desc>
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f2f8ff"/>
+      <stop offset="100%" stop-color="#eefcf7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="980" fill="url(#g1)"/>
+  <circle cx="1120" cy="180" r="180" fill="#d9f3ea" opacity="0.7"/>
+  <rect x="190" y="360" width="1020" height="310" rx="36" fill="#ffffff" stroke="#d7e4df" stroke-width="4"/>
+  <rect x="260" y="420" width="260" height="130" rx="18" fill="#eff6ff"/>
+  <rect x="580" y="420" width="500" height="130" rx="18" fill="#f8fafc"/>
+  <circle cx="420" cy="700" r="58" fill="#1f2937"/>
+  <circle cx="980" cy="700" r="58" fill="#1f2937"/>
+  <text x="700" y="210" text-anchor="middle" font-size="56" font-family="Arial, sans-serif" fill="#0f766e" font-weight="700">Vehicle Service</text>
+</svg>

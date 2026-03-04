@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="980" viewBox="0 0 1400 980" role="img" aria-labelledby="title desc">
+  <title id="title">Termite inspection and protection</title>
+  <desc id="desc">Placeholder for termite inspection and protection planning.</desc>
+  <defs><linearGradient id="g5" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#fff9f2"/><stop offset="100%" stop-color="#f8fafc"/></linearGradient></defs>
+  <rect width="1400" height="980" fill="url(#g5)"/>
+  <rect x="240" y="220" width="920" height="560" rx="36" fill="#ffffff" stroke="#eadfce" stroke-width="4"/>
+  <circle cx="520" cy="500" r="130" fill="#fef3c7"/>
+  <circle cx="520" cy="500" r="70" fill="#f59e0b" opacity="0.25"/>
+  <rect x="700" y="360" width="330" height="48" rx="16" fill="#fffbeb"/>
+  <rect x="700" y="430" width="280" height="48" rx="16" fill="#fef3c7"/>
+  <rect x="700" y="500" width="310" height="48" rx="16" fill="#fde68a"/>
+  <rect x="700" y="570" width="250" height="48" rx="16" fill="#fef3c7"/>
+  <text x="700" y="140" text-anchor="middle" font-size="56" font-family="Arial, sans-serif" fill="#92400e" font-weight="700">Termite Defense</text>
+</svg>

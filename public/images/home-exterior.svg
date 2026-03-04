@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="980" viewBox="0 0 1400 980" role="img" aria-labelledby="title desc">
+  <title id="title">Home perimeter treatment</title>
+  <desc id="desc">Placeholder for home exterior pest prevention treatment.</desc>
+  <defs><linearGradient id="g3" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#f7fdfb"/><stop offset="100%" stop-color="#f8fafc"/></linearGradient></defs>
+  <rect width="1400" height="980" fill="url(#g3)"/>
+  <rect x="150" y="650" width="1100" height="170" rx="24" fill="#dcfce7"/>
+  <polygon points="700,210 300,500 1100,500" fill="#e2e8f0"/>
+  <rect x="360" y="500" width="680" height="260" rx="24" fill="#ffffff" stroke="#dbe4ea" stroke-width="4"/>
+  <rect x="640" y="560" width="120" height="200" rx="16" fill="#f1f5f9"/>
+  <rect x="440" y="560" width="130" height="110" rx="14" fill="#eff6ff"/>
+  <rect x="830" y="560" width="130" height="110" rx="14" fill="#eff6ff"/>
+  <text x="700" y="140" text-anchor="middle" font-size="56" font-family="Arial, sans-serif" fill="#065f46" font-weight="700">Home Protection</text>
+</svg>
