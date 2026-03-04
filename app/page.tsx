@@ -1,6 +1,6 @@
 const businessName = "NextGen Pest Solution"; // keep this as the Google listing name
 const address = "Cromer NSW 2099, Australia";
-const phone = "1300 454 418";
+const phone = "0415777555";
 const email = "info@nextgenpestcontrol.com.au";
 
 const services = [
